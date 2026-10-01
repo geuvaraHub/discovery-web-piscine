@@ -1,0 +1,1 @@
+edit file -> git add . ->git status -> git commit -m "massege explains your edits" -> git push

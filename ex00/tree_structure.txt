@@ -1,0 +1,41 @@
+.:
+total 0
+drwxr-xr-x 5 jalbashi _amman 77 Sep 30 13:53 .
+drwxr-xr-x 3 jalbashi _amman 27 Sep 30 13:30 ..
+drwxr-xr-x 2 jalbashi _amman  6 Sep 30 13:42 archives
+drwxr-xr-x 3 jalbashi _amman 17 Sep 30 13:49 projects
+drwxr-xr-x 2 jalbashi _amman  6 Sep 30 13:42 tools
+-rw-r--r-- 1 jalbashi _amman  0 Sep 30 13:53 tree_structure.txt
+
+./archives:
+total 0
+drwxr-xr-x 2 jalbashi _amman  6 Sep 30 13:42 .
+drwxr-xr-x 5 jalbashi _amman 77 Sep 30 13:53 ..
+
+./projects:
+total 0
+drwxr-xr-x 3 jalbashi _amman 17 Sep 30 13:49 .
+drwxr-xr-x 5 jalbashi _amman 77 Sep 30 13:53 ..
+drwxr-xr-x 4 jalbashi _amman 37 Sep 30 13:45 web
+
+./projects/web:
+total 0
+drwxr-xr-x 4 jalbashi _amman 37 Sep 30 13:45 .
+drwxr-xr-x 3 jalbashi _amman 17 Sep 30 13:49 ..
+drwxr-xr-x 2 jalbashi _amman  6 Sep 30 13:45 backend
+drwxr-xr-x 2 jalbashi _amman  6 Sep 30 13:45 frontend
+
+./projects/web/backend:
+total 0
+drwxr-xr-x 2 jalbashi _amman  6 Sep 30 13:45 .
+drwxr-xr-x 4 jalbashi _amman 37 Sep 30 13:45 ..
+
+./projects/web/frontend:
+total 0
+drwxr-xr-x 2 jalbashi _amman  6 Sep 30 13:45 .
+drwxr-xr-x 4 jalbashi _amman 37 Sep 30 13:45 ..
+
+./tools:
+total 0
+drwxr-xr-x 2 jalbashi _amman  6 Sep 30 13:42 .
+drwxr-xr-x 5 jalbashi _amman 77 Sep 30 13:53 ..
